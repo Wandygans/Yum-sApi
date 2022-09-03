@@ -9,13 +9,19 @@
     "api downloader"
   ],
   "author": "Rizky Adi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "photo": "",
-  "homepage": "",
+  "homepage": "https://github.com/carlxjoe/Yum-sApi/tree/main",
   "repository": {
     "type": "git",
-    "url": "git+https://"
+    "url": "git+https://github.com/carlxjoe/Yum-sApi/tree/main.git"
   },
-  "license": "",
+  "bugs": {
+    "url": "https://github.com/carlxjoe/Yum-sApi/tree/main/issues",
+  },
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "@bochilteam/scraper": "^2.0.0",
     "axios": "^",

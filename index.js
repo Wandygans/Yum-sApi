@@ -12,7 +12,7 @@ app.use(express.static('client'));
 app.set("json spaces",2)
 __path = process.cwd()
 
-var downloader = require('./server/downloader.js');
+var downloader = require('./server/dl.js');
 
 app.use('/downloader', downloader)
 

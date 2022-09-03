@@ -1,1 +1,6 @@
-
+{
+"name": "yum-sapi",
+  "version": "1.0.0",
+  "description": "Simpe-API-Without-Css",
+  "main": "index.js",
+}
